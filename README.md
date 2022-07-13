@@ -6,6 +6,11 @@
 <li><a href="https://www.mapbox.com/maps">MapBox</a></li>
 </ul>
 
+## Technologies
+
+- Javascript
+- Html
+- css
 </ol>
 <h3>How to Use</h3>
 <ol>
