@@ -15,7 +15,7 @@
 <li>use this link to open an account or retrieve a token there to use without an account<a href="https://api-v3.mbta.com/"> Massachusetts Bay Transportation Authority (MBTA)</a></li>
 <li>Paste your two keys in the proper locations in the script file</li>
 <li>Open the index file using a browser</li>
-<li>To simply run the simulaiton you can download and run the index file. 
+<li>To simply run the simulaiton you can download the files, open the index.html file in a browser, then click the button at the top. 
 </ol>
 <h3>Roadmap</h3>
 <p>Adding additional features such as the ability to choose additional routes, add a time tracker and even integrate traffic. It would be great to be able to add a trip planner</p>
